@@ -14,6 +14,6 @@ Em andamento...
 
 ## 👨‍💻 Conecte-se comigo!
 Se quiser trocar ideias ou colaborar em projetos, me chame:
-- 👤 [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/mabylly-neres-3072b5246/))
+- 👤 [LinkedIn]([(https://www.linkedin.com/in/mabylly-neres-3072b5246/)])
 - 🛠️ Email: mabyllyneres1@gmail.com
 
