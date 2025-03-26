@@ -1,5 +1,5 @@
 ## 👋 Olá, visitante!
-Seja bem-vindo ao meu perfil! Aqui, compartilho projetos, estudos e insights sobre minha jornada na **Ciência de Dados e Inteligência Artificial **.
+Seja bem-vindo ao meu perfil! Aqui, compartilho projetos, estudos e insights sobre minha jornada na Ciência de Dados e Inteligência Artificial.
 
 ## 📊 Sobre mim
 - 🎓 **Formação:** Estudante de Engenharia de Computação
