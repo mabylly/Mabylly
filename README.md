@@ -9,7 +9,7 @@ Seja bem-vindo ao meu perfil! Aqui, compartilho projetos, estudos e insights sob
 - ✨ **Objetivo:** Extrair valor dos dados e transformá-los em decisões inteligentes
 
 ## 📚 Meus Projetos
-Em andamento...
+- [Data Pipeline com Airflow e PostgreSQL](https://github.com/mabylly/data-pipeline-airflow-postgres.git)
 
 
 ## 👨‍💻 Conecte-se comigo!
